@@ -17,3 +17,5 @@ public class ImparOuPar {
     }
 }
 // para indentar o código no netbeans eh so apertar ALT + SHIFT + F
+
+// commit é pegar um arquivo que voce adicionou com o 'git add' e criar uma versão nova para ele, ou seja, assume que se o arquivoo existe, ele vai substituir no git local
