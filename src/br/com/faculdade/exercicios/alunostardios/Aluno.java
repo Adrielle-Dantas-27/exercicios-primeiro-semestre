@@ -92,6 +92,12 @@ public final class Aluno {
         }
         System.out.println("---------------------------------------------");
     }
+
+    public void print() {
+    }
+
+    public void print(int i) {
+    }
   
     
     
